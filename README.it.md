@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[English](README.md) | [Hindi](README.hi.md) | [Italiano](README.it.md) | [French](README.fr.md)
+[English](README.md) | [Hindi](README.hi.md) | [Italiano](README.it.md) | [French](README.fr.md)  | [Urdu](README.ur.md)
 
 </div>
 
